@@ -2,7 +2,7 @@
 # Safety Hat Detection with Mask R-CNN
 
 ## Project Overview
-This project focuses on detecting safety hats in images using the Mask R-CNN architecture. The objective is to build a model that accurately identifies and segments safety hats to improve workplace safety monitoring. The dataset contains labeled images for training, validation, and testing, annotated using the VGG Image Annotator (VIA).
+This project focuses on detecting safety hats in images using the Mask R-CNN architecture. The objective is to build a model that accurately identifies and segments safety hats. The dataset contains labeled images for training, validation, and testing, annotated using the VGG Image Annotator (VIA).
 
 - To access the Jupyter notebook of the test with the results, go to [this notebook](samples/hats/test_model_FV.ipynb).
 - To access the training script, go to [this script](samples/hats/hats.py).
@@ -34,7 +34,7 @@ The dataset is organized with separate directories for training, validation, and
   - Background
   - Safety Hat
 - **Annotations**: Provided in JSON format (generated with VIA), with polygon annotations outlining the safety hats.
-- **Number of Labeled Images**: 150+ for training and validation.
+- **Number of Labeled Images**: 150 for training and 30 for validation .
 
 ### Sample Dataset Extracts
 
