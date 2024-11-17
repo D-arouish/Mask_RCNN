@@ -1,4 +1,3 @@
-## by: Zakaria DAROUICH & Hiba ZIATI
 # Safety Hat Detection with Mask R-CNN
 
 ## Project Overview
