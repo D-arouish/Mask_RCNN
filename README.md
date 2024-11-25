@@ -54,6 +54,8 @@ Here are some sample images from each dataset split.
 ## Training Logs
 
 Below are the logs from the training session, with the last line showing the final epoch and loss metrics.
+#### Terminal Logs
+![Terminal Logs](docs/images/terminal_logs.png)
 
 ```
 Epoch 20/20 - Loss: 0.2068 - RPN Class Loss: 0.0020 - RPN Bounding Box Loss: 0.0694 - MRCNN Class Loss: 0.0084 - MRCNN Bounding Box Loss: 0.0346 - MRCNN Mask Loss: 0.0924 Validation Loss: 0.1734 - Validation RPN Class Loss: 0.0017 - Validation RPN Bounding Box Loss: 0.0459 - Validation MRCNN Class Loss: 0.0129 - Validation MRCNN Bounding Box Loss: 0.0290 - Validation MRCNN Mask Loss: 0.0837
