@@ -55,6 +55,7 @@ Here are some sample images from each dataset split.
 
 Below are the logs from the training session, with the last line showing the final epoch and loss metrics.
 #### Terminal Logs
+![Terminal Logs](docs/images/terminal_logs_2.png)
 ![Terminal Logs](docs/images/terminal_logs.png)
 
 ```
